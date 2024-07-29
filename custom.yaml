@@ -1,8 +1,9 @@
-path:  /home/sajadi/anaconda3/envs/YOLOv8/yolov8/
+path:  /content/Custom-Data-YOLOv8-Car-Parking-Space/
 train: images/train
 test: images/test
-#val: images/valid
+val: images/valid
 
 #Classes
 names:
- 0: Person
+ 0: Empty
+ 1: Full
