@@ -5,5 +5,5 @@ val: images/valid
 
 #Classes
 names:
- 0: Empty
- 1: Full
+ 1: Empty
+ 0: Full
